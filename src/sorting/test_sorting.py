@@ -42,5 +42,5 @@ class RecursiveSortingTests(unittest.TestCase):
     #     self.assertEqual(arr5, sorted(arr5_copy))
 
 
-if __name__ == '__main__':
-    unittest.main()
+# if __name__ == '__main__':
+#     unittest.main()
